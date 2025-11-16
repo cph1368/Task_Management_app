@@ -30,7 +30,7 @@ const mainNavItems: NavItem[] = [
     {
         title: 'Tasks',
         href:'/tasks',
-        icon: ListTo,
+        icon: ListTodo,
     },
    
 
